@@ -13,7 +13,7 @@ We present a generative self-supervised meta-learning framework to implement mul
 The complete code will be made public later
 
 ## Data available
-We have initiated a data access review process of our work. Interested parties can now request permission to access the data by emailing the address: wuyongfei@tyut.edu.cn.
+Due to medical ethics issues, our data will be conditionally disclosed after a public ethical review. Interested parties will request permission to access the data by emailing the address: liuxueyu0229@link.tyut.edu.cn.
 
 ## Acknowledgement
 Thanks [Cycle-Gan](https://github.com/junyanz/CycleGAN), [MoCov3](https://github.com/CupidJay/MoCov3-pytorch), [MAML](https://github.com/dragen1860/MAML-Pytorch), [Unet](https://github.com/milesial/Pytorch-UNet). for serving as building blocks of MSMTSeg.
